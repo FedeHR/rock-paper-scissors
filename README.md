@@ -1,2 +1,4 @@
 # rock-paper-scissors
-A simple rock-paper-scissors game from the command line. Made as a JavaScript project for The Odin Project. 
+A simple rock-paper-scissors game made using JavaScript for The Odin Project. 
+To do: add a UI other than alert messages.
+To do: show an alert when the user's input is not valid.
